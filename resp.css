@@ -1,0 +1,38 @@
+@media (400px<= width <= 1000px){
+    #main img{
+        width: 35%;
+        height: 30%;
+    }
+
+    iframe{
+        display: block;
+        width: 90%;
+        margin: 1em;
+    }
+
+    .cab2 img{
+    border-radius: 100px;
+    display: inline-block;
+    width: 40%;
+    }
+
+    #cab{
+    background-color: #ef7689;
+    color: white;
+    border-radius: 12px;
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-right: 20%;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }   
+
+    form{
+        margin: 1em;
+    }
+
+    #main h2{
+        font-size: 6vw;
+    }
+}
